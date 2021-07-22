@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anuradha Hennayake
 - 👀 I’m interested in Machine Learning and data Science
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently following M Phil degree using machine learning
 - 💞️ I’m currently looking for a career opportunity in machine learning
 - 📫 anuradhahennayake@gmail.com
 
